@@ -660,6 +660,13 @@
             ]
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1729595021734,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/hj-m.github.io",
+        "url": "https://hj-m.github.io/pintree/"
       }
     ]
   }
